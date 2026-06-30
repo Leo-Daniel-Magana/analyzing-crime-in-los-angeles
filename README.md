@@ -33,4 +33,5 @@ Six visualizations were built for this analysis: a bar chart of victims by age g
 
 This project uses a modified version of LA's public crime data (185,715 rows, 12 columns), provided through a DataCamp guided project. The dataset is too large to host directly in this repository.
 
-- Original source: [LA Open Data – Crime Data from 2020 to Present](https://data.lacity.org)
+- Original source: [LA Open Data – Crime Data from 2020 to Present] 
+
