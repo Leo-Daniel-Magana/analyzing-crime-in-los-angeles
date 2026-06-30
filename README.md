@@ -27,3 +27,10 @@ Modified version of the LA Open Data crime dataset, provided via DataCamp (185,7
 Six visualizations were built for this analysis: a bar chart of victims by age group, a density curve of victim age distribution, a box plot of victim age by sex, a bar chart of crimes by hour of day, a horizontal bar chart of the top 10 most common crime types, and a lollipop chart of the top 10 areas by crime count.
 
 [View all visualizations on DataCamp →](https://www.datacamp.com/datalab/w/f319beac-aaaa-4104-8c91-9c1f774176a4/edit)
+
+
+## Dataset
+
+This project uses a modified version of LA's public crime data (185,715 rows, 12 columns), provided through a DataCamp guided project. The dataset is too large to host directly in this repository.
+
+- Original source: [LA Open Data – Crime Data from 2020 to Present](https://data.lacity.org)
